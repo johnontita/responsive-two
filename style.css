@@ -49,4 +49,10 @@ p{
     .column.side,.column.middle{
         width: 100%;
     }
+    
+}
+.footer{
+  background-color: cornsilk;
+   padding: 10px;
+   text-align: center;
 }
